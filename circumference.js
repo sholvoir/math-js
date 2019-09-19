@@ -1,0 +1,1 @@
+module.exports = (radius) => 2 * Math.PI * radius;
