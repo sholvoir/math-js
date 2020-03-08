@@ -1,1 +1,0 @@
-module.exports = (radius, height) => Math.PI * radius * radius * height;

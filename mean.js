@@ -1,1 +1,0 @@
-module.exports = (data) => data.reduce((acc, cur) => acc + cur) / data.length;

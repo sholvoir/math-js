@@ -1,1 +1,0 @@
-module.exports = (b, c) => Math.sqrt(c * c - b * b);
