@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/sholvoir/math-js#readme",
   "dependencies": {
-    "@types/node": "^13.9.0",
+    "@types/node": "^13.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3",
     "ts-node": "^8.6.2"
   }
 }
